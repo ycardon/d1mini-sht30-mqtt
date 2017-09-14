@@ -1,0 +1,9 @@
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.vscode
+.vscode/c_cpp_properties.json
+lib/
+.DS_Store
+.travis.yml
